@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kinect2unitycoordinate02.CSharp.Plugins", "kinect2unitycoordinate02.CSharp.Plugins.csproj", "{28E5C72D-6118-4194-2A85-98B4259F7437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kinect2unitycoordinate02.CSharp", "kinect2unitycoordinate02.CSharp.csproj", "{E240D4C4-8F41-27E1-03E8-6AC7EDFE24B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kinect2unitycoordinate02.CSharp.Editor.Plugins", "kinect2unitycoordinate02.CSharp.Editor.Plugins.csproj", "{133ABBA3-8C36-FAA0-EA44-913624075761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E5C72D-6118-4194-2A85-98B4259F7437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E5C72D-6118-4194-2A85-98B4259F7437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E5C72D-6118-4194-2A85-98B4259F7437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E5C72D-6118-4194-2A85-98B4259F7437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E240D4C4-8F41-27E1-03E8-6AC7EDFE24B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E240D4C4-8F41-27E1-03E8-6AC7EDFE24B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E240D4C4-8F41-27E1-03E8-6AC7EDFE24B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E240D4C4-8F41-27E1-03E8-6AC7EDFE24B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133ABBA3-8C36-FAA0-EA44-913624075761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133ABBA3-8C36-FAA0-EA44-913624075761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133ABBA3-8C36-FAA0-EA44-913624075761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133ABBA3-8C36-FAA0-EA44-913624075761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
